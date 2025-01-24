@@ -14,19 +14,10 @@ Advanced machine learning application for predicting wheat yield and water produ
 - Secure login system
 
 ## 💻 Tech Stack
-- Python 3.10
-- scikit-learn
-- XGBoost
-- TensorFlow
-- Pandas/NumPy
-- Matplotlib/Seaborn
-- tkinter/ttkbootstrap
+- Python 3.10 - scikit-learn - XGBoost - TensorFlow - Pandas/NumPy - Matplotlib/Seaborn - tkinter/ttkbootstrap
 
 ## 📊 Models
-- Linear Regression
-- Random Forest
-- Gradient Boosting
-- XGBoost
-- KNN
-- Decision Tree
-- Bagging Regressor
+- Linear Regression - Random Forest - Gradient Boosting - XGBoost - KNN - Decision Tree - Bagging Regressor
+
+# Location of Study Area (Gezira Irrigation Scheme)
+![alt text](image-1.png)
