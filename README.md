@@ -1,9 +1,16 @@
 # WheatML-Precision-Agriculture-Analysis-Suite
 Advanced ML application for predicting wheat yield &amp; water productivity using remote sensing data. Features real-time predictions, interactive visualizations, and multi-model analysis. MSc project integrating precision agriculture with machine learning for Sudan's Gezira Irrigation Scheme, 2024.
 
+
 # 🌾 WheatML: Precision Agriculture Analysis Suite
 
 Advanced machine learning application for predicting wheat yield and water productivity in Sudan's Gezira Irrigation Scheme using remote sensing data.
+
+- 🎯 Multi-Model Prediction Engine
+- 💧 Water Resource Optimization
+- 📊 Interactive Data Visualization
+- 🛰️ Remote Sensing Integration
+- 🌟 Feature Importance Analysis
 
 ## 🎯 Key Features
 - Multi-model prediction engine (RF, XGBoost, GBM, etc.)
@@ -24,3 +31,16 @@ _**# Location of Study Area (Gezira Irrigation Scheme)**_
 
 _**# Methodology for Wheat Yield and WPy Prediction Using Machine Learning**_
 ![alt text](image-2.png)
+
+📝 Usage
+Launch application
+Login credentials:
+* Username: HRC_Sudan
+* Password: 422436
+
+📧 Contact
+* Email: 449809@ogr.ktu.edu.tr
+* Phone: +905319464405
+
+📄 License
+* **© 2024 KTU & HRC Sudan. All rights reserved.**
