@@ -19,5 +19,8 @@ Advanced machine learning application for predicting wheat yield and water produ
 ## 📊 Models
 - Linear Regression - Random Forest - Gradient Boosting - XGBoost - KNN - Decision Tree - Bagging Regressor
 
-# Location of Study Area (Gezira Irrigation Scheme)
+_**# Location of Study Area (Gezira Irrigation Scheme)**_
 ![alt text](image-1.png)
+
+_**# Methodology for Wheat Yield and WPy Prediction Using Machine Learning**_
+![alt text](image-2.png)
