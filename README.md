@@ -38,9 +38,6 @@ Login credentials:
 * Username: HRC_Sudan
 * Password: 422436
 
-📧 Contact
-* Email: 449809@ogr.ktu.edu.tr
-* Phone: +905319464405
 
 📄 License
 * **© 2024 KTU & HRC Sudan. All rights reserved.**
